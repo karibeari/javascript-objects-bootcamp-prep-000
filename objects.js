@@ -1,4 +1,4 @@
-var playlist = {UB40: "Red Red Wine"};
+var playlist = {};
 
 function updatePlaylist(playlist, name, title){
   playlist.name = title;
